@@ -1,0 +1,28 @@
+.articles-primary{
+      padding: 4em 0 ;
+      /* background-color: hsl(0, 0%, 98%); */
+}
+.articles-primary h2{
+      margin-bottom: 1em;
+}
+.article-cards img{
+      width: 90vw;
+
+}
+.article-cards span{
+      display: block;
+}
+.article-cards div{
+      width: 90vw;
+      margin: 0 5vw 4em;
+      border-radius: 10px;
+      background-color: hsl(0, 0%, 98%);
+      /* padding: 0 2em; */
+      padding-bottom: 2em;
+
+}
+.article-cards div p , .article-cards div h3 ,.article-cards div span {
+       padding: 0 1em; 
+       margin: .5em 0;
+      text-align: start;
+}
