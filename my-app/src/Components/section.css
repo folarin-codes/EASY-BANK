@@ -1,0 +1,19 @@
+.section{
+      padding: 3em 3em;
+      background-color: hsl(0, 0%, 98%);
+}
+
+.section-primary{
+      margin-bottom: 2em;
+}
+
+.section-secondary img{
+      display: flex;
+      margin: 0 auto;
+      margin-bottom: 1em;
+}
+
+.section-secondary {
+      margin-bottom: 2em;
+      
+}

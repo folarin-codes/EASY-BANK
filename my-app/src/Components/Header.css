@@ -1,0 +1,23 @@
+
+
+.header-primary{
+      background-image: url(../images/bg-intro-mobile.svg);
+      
+      background-repeat: no-repeat;
+      /* background-size: contain; */
+      /* overflow: hidden; */
+      background-size: 100% 100%;
+}
+
+.header-primary img{
+      width: 80vw;
+      margin: -8em 3em 0;
+}
+
+.header-secondary{
+      padding: 0 3em 3em;
+      
+}
+.header-secondary h1{
+      font-weight: 400;
+}

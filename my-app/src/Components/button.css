@@ -1,0 +1,12 @@
+button{
+      background-image: linear-gradient(to right , hsl(136, 65%, 51%) ,hsl(192, 70%, 51%) );
+      color: white;
+      display: flex;
+      margin: 0 auto;
+      padding: 1em 3em;
+      border: none;
+      border-radius: 40px;
+      margin-top: 1em;
+      /* font-weight: bold; */
+      /* font-size: 1.1em; */
+}
