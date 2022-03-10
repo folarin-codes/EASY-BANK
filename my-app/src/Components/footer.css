@@ -1,0 +1,39 @@
+footer{
+      display: flex;
+      flex-direction: column;
+      background-color:   hsl(233, 26%, 24%);
+      padding: 3em 0;
+}
+footer img{
+      color: white;
+}
+.footer-primary{
+      display: flex;
+      flex-direction: column;
+      gap: 2em;
+      margin: 0 auto 2em;
+}
+footer span{
+      display: flex;
+      gap: 1em;
+
+}
+footer a{
+      text-decoration: none;
+      color: white;
+      cursor: pointer;
+}
+footer ul{
+      display: flex;
+      flex-direction: column;
+      margin: 0 auto 1em;
+      gap: 1em;
+}
+footer li{
+      list-style: none;
+      text-align: center;
+      
+}
+footer button{
+      margin-bottom: 2em;
+}
