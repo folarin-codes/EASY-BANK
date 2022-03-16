@@ -37,3 +37,15 @@ footer li{
 footer button{
       margin-bottom: 2em;
 }
+
+@media (min-width: 1024px) {
+      footer{
+           
+            flex-direction: row;
+            justify-content: space-around;
+      }
+      .footer-primary{
+            margin: 0;
+      }
+      
+}

@@ -26,3 +26,20 @@
        margin: .5em 0;
       text-align: start;
 }
+
+@media  (min-width: 1024px) {
+      .article-cards{
+            display: flex;
+            gap: 2em;
+            
+      }
+
+      .article-cards div{
+            width: 20vw;
+            margin: 0 auto;
+            border-radius: 10px;
+      }
+      .article-cards img{
+            width: 20vw;
+      }
+}

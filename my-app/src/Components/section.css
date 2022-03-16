@@ -17,3 +17,28 @@
       margin-bottom: 2em;
       
 }
+
+@media (min-width: 1024px) {
+      .section-secondary-container{
+           display: flex;
+           gap: 2em;
+
+     } 
+     .section-primary{
+      margin-bottom: 3em;
+     }
+     .section-primary h2 ,.section-primary p{
+           text-align: left;
+          
+     }
+     .section-secondary h3, .section-secondary p{
+           text-align: left;
+           margin-bottom: 1em;
+
+     }
+     .section-secondary img{
+           margin: 0 0 1em;
+
+     }
+      
+}

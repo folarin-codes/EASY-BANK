@@ -15,6 +15,8 @@ function Section() {
                   
                   </div>
 
+                  <div className='section-secondary-container'>
+
                   <SectionFragment
                         title='Online Banking'
                         paragraph='Our modern web and mobile applications allow you to keep track of your finances wherever you are in the world.'
@@ -39,7 +41,8 @@ function Section() {
                         title="Open API"
                         paragraph="Manage your savings,investments,pension,and much more from one account. Tracking your money has never been easier."
                         img={api}
-                  />
+                        />
+                        </div>
                   
 
             </section>
